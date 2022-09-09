@@ -1,0 +1,23 @@
+.box{
+    border: 2px solid;
+    border-radius: 5px;
+    width: 400px;
+    margin: auto;
+    height: 200px;
+    font-size: 40px;
+}
+.select{
+    padding-top: 50px;
+    text-align: center;
+}
+.mins{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.btns{
+    margin: auto;
+    padding-top: 30px;
+    width: 200px;
+    align-items: center;
+}
